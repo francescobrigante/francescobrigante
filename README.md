@@ -18,7 +18,7 @@ Some of my projects about the topic:
 As a music enthusiast, I love solving musical problems that I face using ML/DL solutions:
 * **`Audio2PianoRoll`:** Automatic Music Transcription system that converts isolated guitar audio into a Piano Roll 
 * **`Audio Style Transfer`:** investigating the Disentanglement of Latent Representations of the input in complex domain, to provide style transfer between two musical instruments.
-* **`Real-time Accompaniment`:** real-time accompaniment system that listens to your playing and generates harmonically appropriate chords (WORK IN PROGRESS)
+* **`Real-time AI Accompaniment`:** real-time accompaniment system (based on LSTM + Harmonic rules) that listens to your playing and generates harmonically appropriate chords (WORK IN PROGRESS)
 
 ---
 
