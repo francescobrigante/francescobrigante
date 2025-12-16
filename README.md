@@ -16,9 +16,9 @@ Some of my projects about the topic:
 
 ### 🎶 Deep Learning for Audio & Music
 As a music enthusiast, I love solving musical problems that I face using ML/DL solutions:
+* **`Real-time AI Accompaniment`:** Hybrid AI/Musical-Theory System that listens, understands, and plays with you in real-time. It combines the predictive power of Deep Learning (LSTM) with the responsiveness of a Rule-Based Musical-Theory System (Ear), allowing it to "think ahead" while remaining agile enough to react to your live playing.
 * **`Audio2PianoRoll`:** Automatic Music Transcription system that converts isolated guitar audio into a Piano Roll 
 * **`Audio Style Transfer`:** investigating the Disentanglement of Latent Representations of the input in complex domain, to provide style transfer between two musical instruments.
-* **`Real-time AI Accompaniment`:** real-time accompaniment system (based on LSTM + Harmonic rules) that listens to your playing and generates harmonically appropriate chords (WORK IN PROGRESS)
 
 ---
 
