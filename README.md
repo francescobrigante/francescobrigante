@@ -11,7 +11,7 @@ The topics that I'm most interested in are LLMs and Deep Learning techniques for
 
 ### 🤖 Large Language Models (LLMs)
 Some of my projects about the topic:
-* **`Enterprise RAG`:** robust, specialized RAG pipeline for enterprise documents.
+* **`VectorRAG vs GraphRAG`:** implementation and benchmarking of 4 different RAG systems optimized for Enterprise Knowledge Retrieval
 * **`Digital Self-Replica`:** easily clone yourself using a quantized LLM + your WhatsApp Chats
 
 ### 🎶 Deep Learning for Audio & Music
