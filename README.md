@@ -1,37 +1,57 @@
 <div align="center">
-  
-## 👋 Hey there
 
-[![LinkedIn Profile Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-brigante-666021215/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescobrigantefb@gmail.com)
-  <a href="https://www.youtube.com/watch?v=rMqet5fySLI"><img src="https://img.shields.io/badge/RealTime%20AI%20Musical%20Accompaniment-Check%20a%20live%20demo!-white?style=for-the-badge&logo=youtube&logoColor=white&labelColor=red" /></a>
+# Francesco Brigante
+
+### AI Research Engineer · Generative Models · Representation Learning
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/francesco-brigante-666021215/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:francescobrigantefb@gmail.com)
+<a href="https://www.youtube.com/watch?v=rMqet5fySLI"><img src="https://img.shields.io/badge/RealTime%20AI%20Musical%20Accompaniment-Check%20a%20live%20demo!-white?style=for-the-badge&logo=youtube&logoColor=white&labelColor=red" /></a>
+
 </div>
 
 ---
 
-I'm Francesco, a Computer Science MSc student with a deep passion for Machine Learning.
+AI Research Engineer with an **MSc in Computer Science (110/110 cum laude)**, focused on **generative models, representation learning and deep learning**.
 
-I currently work part-time as an **AI Engineer**, where I specialize in building and implementing **RAG (Retrieval-Augmented Generation)** solutions for enterprise applications.
-
-The topics that I'm most interested in are **LLMs and Deep Learning techniques for Audio and Music**.
-
----
-
-### 🤖 Large Language Models (LLMs)
-Some of my projects about the topic:
-* **[`VectorRAG vs GraphRAG`](https://github.com/francescobrigante/VectorRAG-vs-GraphRAG):** implementation and benchmarking of 4 different RAG systems optimized for Enterprise Knowledge Retrieval
-* **[`Digital Self-Replica`](https://github.com/francescobrigante/Digital-Self-Replica):** easily clone yourself using a quantized LLM + your WhatsApp Chats
+My main interests also include **Multimodal learning, distillation, audio/music ML and efficient model training**.
+Research and engineering experience with **PyTorch, Transformers and distributed training** on HPC, alongside practical work on LLM-based systems.
 
 ---
 
-### 🎶 Deep Learning for Audio & Music
-As a music enthusiast, I love simplifying musicians' lives using ML/DL solutions:
-* **[`Real-time AI Accompaniment`](https://www.youtube.com/watch?v=rMqet5fySLI):** Hybrid AI/Musical-Theory System that listens, understands, and plays with you in real-time. It combines the predictive power of Deep Learning (LSTM) with the responsiveness of a Rule-Based Musical-Theory System (Ear), allowing it to "think ahead" while remaining agile enough to react to your live playing.
-* **[`Audio2PianoRoll`](https://github.com/francescobrigante/Audio2PianoRoll):** Automatic Music Transcription system that converts isolated guitar audio into a Piano Roll 
-* **[`Audio Style Transfer`](https://github.com/francescobrigante/Audio-Style-Transfer):** investigating the Disentanglement of Latent Representations of the input in complex domain, to provide style transfer between two musical instruments.
+### 🧠 Tech Stack
+
+**ML / Generative AI:** PyTorch · Transformers · Hugging Face · PEFT · QLoRA · Distributed Data Parallel · Weights & Biases
+
+**Audio / DSP:** Torchaudio · Librosa · STFT · Mel Spectrograms · CQT · MIDI · Neural Codecs
+
+**Systems:** Python · C++ · CUDA · Docker · FastAPI · SLURM/HPC · AWS · GCP
+
+**LLMs:** LLM Evaluation · RAG · Quantization · Agentic Systems
+
+---
+
+### 🚀 Selected Projects
+
+**[VectorRAG vs GraphRAG](https://github.com/francescobrigante/VectorRAG-vs-GraphRAG)**
+Benchmark of vector, graph and hybrid RAG architectures, achieving **10× lower token consumption** while maintaining **0.84 faithfulness**.
+
+**[Audio2PianoRoll](https://github.com/francescobrigante/Audio2PianoRoll)**
+Automatic Music Transcription system based on a custom U-Net, achieving **83% F1-score on GuitarSet**.
+
+**[Real-Time AI Musical Accompaniment](https://www.youtube.com/watch?v=rMqet5fySLI)**
+Real-time neural + symbolic accompaniment system with **<10 ms end-to-end latency**.
+
+**[Digital Self-Replica](https://github.com/francescobrigante/Digital-Self-Replica):**
+Easily clone yourself using a quantized LLM + your WhatsApp Chats
+
+**[Audio Style Transfer](https://github.com/francescobrigante/Audio-Style-Transfer)**
+Exploration of **latent-space disentanglement and complex-valued representations** for musical style transfer.
 
 ---
 
 <div align="center">
-  🌱 **I’m open to collaboration!** If you're working on exciting projects related to LLMs, RAG, or ML/DL for Audio and Music, feel free to reach out!
+
+Open to interesting work and collaborations in my fields of interest.
+
 </div>
