@@ -18,7 +18,7 @@ I train large generative models, at work and in my research.
 
 At **Translated**, in the Foundation Models team, I work on pre-training, continued pre-training and distillation of large-scale multilingual language models.
 At **Sapienza**, as a PhD student, I study generative models for audio and how to give their latent spaces semantic structure.
-Before that I worked on production LLM systems, including a RAG assistant deployed for the Italian Ministry of Education.
+Before Translated, I worked on production LLM systems, including a RAG assistant deployed for the Italian Ministry of Education.
 
 I like owning the whole stack: data curation, model design, custom CUDA kernels, distributed training on HPC and careful evaluation.
 I'm also a musician, which is where the audio obsession comes from.
