@@ -64,7 +64,7 @@ A compact **105M-parameter VAE for 44.1 kHz stereo music**. A Swin Transformer V
 | Project | What it is | Highlight |
 |---|---|---|
 | [**Audio2PianoRoll**](https://github.com/francescobrigante/Audio2PianoRoll) | Automatic music transcription with CQT and a custom U-Net | 83% F1 on GuitarSet |
-| [**Real-Time AI Accompaniment**](https://www.youtube.com/watch?v=rMqet5fySLI) | Neural and symbolic system that accompanies a live musician | <10 ms end-to-end latency · [demo](https://www.youtube.com/watch?v=rMqet5fySLI) |
+| [**MusicBuddy**](https://github.com/francescobrigante/MusicBuddy) | Real-time AI accompanist: an LSTM and a music-theory "Ear" follow your MIDI playing and answer with chords | ~3 ms per chord decision · [demo](https://www.youtube.com/watch?v=rMqet5fySLI) |
 | [**Audio Style Transfer**](https://github.com/francescobrigante/Audio-Style-Transfer) | Piano ↔ violin transfer through latent disentanglement | Complex-valued representations |
 | [**VectorRAG vs GraphRAG**](https://github.com/francescobrigante/VectorRAG-vs-GraphRAG) | Benchmark of vector, graph and hybrid RAG for enterprise retrieval | 10× fewer tokens at 0.84 faithfulness |
 
